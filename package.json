@@ -1,7 +1,7 @@
 {
-    "name": "TuanDeepTry",
+    "name": "QuangBao",
     "version": "1.2.14",
-    "description": "Source code được mod và update lại bởi TuanDz. Chúc các bạn vui vẻ 🚀",
+    "description": "Source code được mod và update lại bởi Qbao. Chúc các bạn vui vẻ 🚀",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
